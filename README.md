@@ -1,11 +1,12 @@
+<p align="right">
+  <img src="images/Headshot2.jpg" width="500">
+</p>
 # Bailey Walke — Engineering Portfolio
 
 **M.S. Mechanical Engineering (in progress)**  
 **B.S. Mechanical Engineering | Aerospace Emphasis**  
 Kansas State University  
-<p align="center">
-  <img src="images/Headshot2.jpg" width="500">
-</p>
+
 ---
 
 ## About Me
