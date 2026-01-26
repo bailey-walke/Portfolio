@@ -1,9 +1,12 @@
+<img src="images/Glider.jpg" align="right" width="230">
+
 # Aerodynamics — Glider Design, Analysis, and Flight Testing
 
 **Course:** Aerodynamics  
 **Institution:** Kansas State University  
 **Term:** Fall 2024  
 **Team Project**
+&nbsp;
 
 ---
 
