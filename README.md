@@ -1,6 +1,6 @@
+<img src="images/Headshot2.jpg" align="right" width="230">
+<img src="images/Graduation.jpg" align="right" width="230">
 
-<img src="images/Headshot2.jpg" align="right" width="250">
-<img src="images/Graduation.jpg" width="250">
 ## Bailey Walke — Engineering Portfolio
 
 **M.S. Mechanical Engineering (in progress)**  
