@@ -24,7 +24,7 @@ Led systems engineering efforts for two student-developed CubeSat missions, guid
 - Requirements development and verification (RVMs)
 - Interface definition, system block diagrams, and risk management
 - Multidisciplinary leadership across mechanical, electrical, software, and payload teams  
- **[View CubeSat Projects](./CubeSat)**
+**[View CubeSat Projects](./CubeSat)**
 
 ---
 ###  Senior Design — Parkinson’s Tremor Damping Device
@@ -35,7 +35,7 @@ Designed and implemented the electronics and embedded control system for a weara
 - Human-centered servo actuation with automatic disengagement
 - Integration of sensing, actuation, and safety constraints
 - Designed for accessibility and ease of use  
- **[View Senior Design Project](./Senior-Design)**
+**[View Senior Design Project](./Senior-Design)**
 
 ---
 ###  Ceramic Matrix Composites (CMC) Research
@@ -47,34 +47,34 @@ Conducted experimental research on multi-cycle polymer-derived ceramic matrix co
 - Presented at:
   - **2024 Kansas State Undergraduate Research Symposium**
   - **2025 Research of the State – Kansas Graduate Research Summit**  
- **[View CMC Research](./Ceramic-Matrix-Composites)**
+**[View CMC Research](./Ceramic-Matrix-Composites)**
 
 ---
 ## Additional Engineering Projects
 
 ###  Aerodynamics — Glider Design & Flight Testing
-Analytical design, manufacturing, and flight testing of a fixed-wing glider, including stability analysis and post-test validation.
- [Aerodynamics](./Aerodynamics)   
+Analytical design, manufacturing, and flight testing of a fixed-wing glider, including stability analysis and post-test validation.  
+[Aerodynamics](./Aerodynamics)   
 
 ---
 ###  Fluid Mechanics — Internal Flow Analysis
-Analytical and CFD analysis of pipe flow regimes using Reynolds number theory and SolidWorks Flow Simulation.
- [Fluid Mechanics](./Fluid-Mechanics)
+Analytical and CFD analysis of pipe flow regimes using Reynolds number theory and SolidWorks Flow Simulation.  
+[Fluid Mechanics](./Fluid-Mechanics)
 
 ---
 ###  Heat Transfer — Thermal System Modeling
-FEA and analytical evaluation of heat sink material selection and thermal performance.
- [Heat Transfer](./Heat-Transfer)
+FEA and analytical evaluation of heat sink material selection and thermal performance.  
+[Heat Transfer](./Heat-Transfer)
 
 ---
 ###  Machine Design — Stress Concentration Validation
-Finite element validation of theoretical stress concentration factors with mesh convergence studies.
- [Machine Design](./Machine-Design)
+Finite element validation of theoretical stress concentration factors with mesh convergence studies.  
+[Machine Design](./Machine-Design)
 
 ---
 ###  Computer-Automated Manufacturing
-Integrated PLC, robotic arm, and CNC laser engraving system demonstrating automated manufacturing workflows.
- [Computer-Automated Manufacturing](./Computer-Automated-Manufacturing)
+Integrated PLC, robotic arm, and CNC laser engraving system demonstrating automated manufacturing workflows.  
+[Computer-Automated Manufacturing](./Computer-Automated-Manufacturing)
 
 ---
 ## Skills & Technical Areas
