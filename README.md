@@ -1,9 +1,9 @@
 <img src="images/Graduation.jpg" align="right" height="350"> <img src="images/Headshot2.jpg" align="right" height="350">
 
-## Bailey Walke — Engineering Portfolio
+## Bailey Walke — Portfolio
 
 **M.S. Mechanical Engineering (in progress)**  
-**B.S. Mechanical Engineering | Aerospace Emphasis**  
+**B.S. Mechanical Engineering | Aerospace Emphasis | Physics Minor | Engineering Leadership and Innovation Certificate** *(Class of 2025)*  
 Kansas State University  
 
 ---
@@ -18,7 +18,7 @@ This repository contains a curated selection of academic, research, and design p
 ## Featured Projects (Headliners)
 
 ###  CubeSat Systems Engineering (NuKAT & PHAT-Sat)
-**Chief Systems Engineer / Systems Lead**
+**Chief Systems Engineer / Principal Investigator**
 
 Led systems engineering efforts for two student-developed CubeSat missions, guiding projects from early concept through formal NASA-style design reviews.
 
@@ -40,6 +40,7 @@ Designed and implemented the electronics and embedded control system for a weara
 - Frequency- and amplitude-based tremor classification
 - Human-centered servo actuation with automatic disengagement
 - Integration of sensing, actuation, and safety constraints
+- Designed for accessibility and ease of use
 
  **[View Senior Design Project](./Senior-Design)**
 
