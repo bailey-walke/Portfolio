@@ -1,9 +1,5 @@
 
-<img src="images/HeadShot2.jpg" align="right" width="300">
-
-## Project Overview
-This project involved the design of a wearable viscous damping device intended to reduce Parkinsonian tremors without restricting voluntary motion. The system combines passive mechanical damping with embedded sensing and control to selectively engage resistance only during tremor events.
-
+<img src="images/Headshot2.jpg" align="right" width="300">
 # Bailey Walke — Engineering Portfolio
 
 **M.S. Mechanical Engineering (in progress)**  
