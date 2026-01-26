@@ -23,7 +23,7 @@ Led systems engineering efforts for two student-developed CubeSat missions, guid
 - Mission architecture, CONOPS, and operational modes
 - Requirements development and verification (RVMs)
 - Interface definition, system block diagrams, and risk management
-- Multidisciplinary leadership across mechanical, electrical, software, and payload teams
+- Multidisciplinary leadership across mechanical, electrical, software, and payload teams  
  **[View CubeSat Projects](./CubeSat)**
 
 ---
@@ -34,7 +34,7 @@ Designed and implemented the electronics and embedded control system for a weara
 - Frequency- and amplitude-based tremor classification
 - Human-centered servo actuation with automatic disengagement
 - Integration of sensing, actuation, and safety constraints
-- Designed for accessibility and ease of use
+- Designed for accessibility and ease of use  
  **[View Senior Design Project](./Senior-Design)**
 
 ---
@@ -46,7 +46,7 @@ Conducted experimental research on multi-cycle polymer-derived ceramic matrix co
 - Oxidation testing and materials performance analysis
 - Presented at:
   - **2024 Kansas State Undergraduate Research Symposium**
-  - **2025 Research of the State – Kansas Graduate Research Summit**
+  - **2025 Research of the State – Kansas Graduate Research Summit**  
  **[View CMC Research](./Ceramic-Matrix-Composites)**
 
 ---
