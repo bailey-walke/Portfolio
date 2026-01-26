@@ -15,7 +15,7 @@ This repository contains a curated selection of academic, research, and design p
 <br clear="right">
 
 ---
-## Featured Projects (Headliners)
+## Featured Projects
 
 ###  CubeSat Systems Engineering (NuKAT & PHAT-Sat)
 **Chief Systems Engineer / Principal Investigator**
