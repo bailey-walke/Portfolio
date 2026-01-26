@@ -10,7 +10,7 @@
 ## Project Overview
 This project involved the design, programming, and integration of a fully automated manufacturing cell combining a conveyor system, industrial robot arm, and CNC laser engraver. The goal was to transport a workpiece through multiple stations, perform robotic handling, and execute laser engraving with minimal human intervention.
 
-The system integrated PLC ladder logic, robot motion programming, and manual G-code generation into a coordinated manufacturing workflow :contentReference[oaicite:0]{index=0}.
+The system integrated PLC ladder logic, robot motion programming, and manual G-code generation into a coordinated manufacturing workflow
 
 ---
 
@@ -29,13 +29,13 @@ The system integrated PLC ladder logic, robot motion programming, and manual G-c
 ## Key Outcomes
 - Successful end-to-end automation of part transport, engraving, and return
 - Reliable coordination between PLC logic, robot motion, and CNC operation
-- Demonstrated understanding of **manufacturing automation sequencing and integration
+- Demonstrated understanding of manufacturing automation sequencing and integration
 - Final system cycle time of approximately 5 minutes per part
 
 ---
 
 ## Repository Contents
-- `CAM_FinalProject.pdf` — Full report including ladder diagrams, robot code, G-code, and system integration results :contentReference[oaicite:2]{index=2}
+- `CAM_FinalProject.pdf` — Full report including ladder diagrams, robot code, G-code, and system integration results
 
 ---
 
