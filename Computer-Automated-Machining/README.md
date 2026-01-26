@@ -34,11 +34,6 @@ The system integrated PLC ladder logic, robot motion programming, and manual G-c
 
 ---
 
-## Repository Contents
-- `CAM_FinalProject.pdf` — Full report including ladder diagrams, robot code, G-code, and system integration results
-
----
-
 ## Skills Demonstrated
 - PLC ladder logic and industrial controls  
 - Robot programming and work-cell planning  
