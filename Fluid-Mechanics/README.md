@@ -22,7 +22,7 @@ The study focused on internal pipe flow and examined how changes in flow rate an
 - Compared theoretical predictions to simulated velocity fields
 - Evaluated flow development and turbulence onset using cut plots and trajectories
 
-The CFD results showed strong agreement with analytical expectations, with most cases exhibiting turbulent flow regimes at the selected operating conditions :contentReference[oaicite:0]{index=0}.
+The CFD results showed strong agreement with analytical expectations, with most cases exhibiting turbulent flow regimes at the selected operating conditions.
 
 ---
 
