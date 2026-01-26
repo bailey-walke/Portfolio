@@ -26,6 +26,7 @@ A wearable wrist-mounted assistive device designed to reduce involuntary Parkins
 - Wrist-mounted fluid reservoir with internal baffle
 - Magnetically coupled, servo-driven resistance mechanism
 - Passive viscous damping as primary tremor suppression method
+
 **Electrical / Control**
 - ESP32 microcontroller
 - MPU6050 IMU
