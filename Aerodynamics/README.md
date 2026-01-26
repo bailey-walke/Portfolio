@@ -1,4 +1,4 @@
-<img src="images/Glider.jpg" align="right" width="230">
+<img src="Portfolio/images/Glider.jpg" align="right" width="230">
 
 # Aerodynamics — Glider Design, Analysis, and Flight Testing
 
