@@ -41,7 +41,7 @@ A wearable wrist-mounted assistive device designed to reduce involuntary Parkins
 This approach prioritizes user intent, safety, and low computational overhead.
 ---
 ## Repository Contents
--`SeniorDesign TremorActuationCode.pdf` — ESP32 firmware (tremor detection + servo control)
+- `SeniorDesign TremorActuationCode.pdf` — ESP32 firmware (tremor detection + servo control)
 - `SeniorDesign_FinalReport.pdf` — Design, safety, sustainability, economic analysis
 - `SeniorDesign_DesignPresentation.pdf` — Concept selection, prototype overview
 - `SeniorDesign_ManufacturingDocumentation.pdf` — CAD, BOM, tolerances, assembly
