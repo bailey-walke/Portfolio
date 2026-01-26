@@ -1,7 +1,9 @@
 # Viscous Damping Device for Parkinson’s Tremors
 
 **Senior Design Project | Kansas State University (Spring 2025)**
+
 **Role:** Mechatronics & Controls Engineer
+
 **Focus:** Tremor detection, motion classification, and actuator response 
 
 ---
