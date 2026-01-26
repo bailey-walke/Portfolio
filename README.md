@@ -1,5 +1,5 @@
-<img src="images/Headshot2.jpg" align="right" height="500">
-<img src="images/Graduation.jpg" align="right" height="500">
+<img src="images/Headshot2.jpg" align="right" height="400">
+<img src="images/Graduation.jpg" align="right" height="400">
 
 ## Bailey Walke — Engineering Portfolio
 
