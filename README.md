@@ -1,4 +1,4 @@
-<img src="images/Graduation.jpg" align="right" width="230"><img src="images/Headshot2.jpg" align="right" width="230">
+<img src="images/Graduation.jpg" align="right" height="300"><img src="images/Headshot2.jpg" align="right" height="300">
 &nbsp;
 ## Bailey Walke — Portfolio
 
@@ -6,14 +6,12 @@
 **B.S. Mechanical Engineering | Aerospace Emphasis | Physics Minor | Engineering Leadership and Innovation Certificate** *(Class of 2025)*
 Kansas State University  
 
-<br clear="right">
----
-
 ## About Me
 I am a mechanical engineer with a strong focus on aerospace systems, embedded hardware, and high-temperature materials. My work spans space systems engineering, experimental materials research, and hands-on prototyping, with an emphasis on translating theory into validated, real-world designs.
 
 This repository contains a curated selection of academic, research, and design projects demonstrating my technical depth, leadership, and systems-level thinking.
 
+<br clear="right">
 ---
 
 ## Featured Projects (Headliners)
