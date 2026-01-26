@@ -1,6 +1,7 @@
 
-<img src="images/Headshot2.jpg" align="right" width="300">
-# Bailey Walke — Engineering Portfolio
+<img src="images/Headshot2.jpg" align="right" width="250">
+<img src="images/Graduation.jpg" width="250">
+## Bailey Walke — Engineering Portfolio
 
 **M.S. Mechanical Engineering (in progress)**  
 **B.S. Mechanical Engineering | Aerospace Emphasis**  
