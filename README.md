@@ -1,11 +1,12 @@
-<img src="images/Graduation.jpg" align="right" height="300"><img src="images/Headshot2.jpg" align="right" height="300">
-
+<img src="images/Graduation.jpg" align="right" width="230"><img src="images/Headshot2.jpg" align="right" width="230">
+&nbsp;
 ## Bailey Walke — Portfolio
 
 **M.S. Mechanical Engineering (in progress)**  
-**B.S. Mechanical Engineering | Aerospace Emphasis | Physics Minor | Engineering Leadership and Innovation Certificate** *(Class of 2025)*  
+**B.S. Mechanical Engineering | Aerospace Emphasis | Physics Minor | Engineering Leadership and Innovation Certificate** *(Class of 2025)*
 Kansas State University  
 
+<br clear="right">
 ---
 
 ## About Me
