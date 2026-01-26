@@ -2,8 +2,8 @@
 &nbsp;
 ## Bailey Walke — Portfolio
 
-**M.S. Mechanical Engineering (in progress)** *Spring 2026*
-**B.S. Mechanical Engineering | Aerospace Emphasis | Physics Minor | Engineering Leadership and Innovation Certificate** *(Spring 2025)*
+**M.S. Mechanical Engineering (in progress)** *Spring 2026*  
+**B.S. Mechanical Engineering | Aerospace Emphasis | Physics Minor | Engineering Leadership and Innovation Certificate** *(Spring 2025)*  
 Kansas State University  
 
 ## About Me
