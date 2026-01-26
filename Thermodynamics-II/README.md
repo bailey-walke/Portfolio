@@ -32,11 +32,6 @@ All calculations were performed using first- and second-law thermodynamic princi
 
 ---
 
-## Repository Contents
-- `Thermo2_FinalProject.pdf` — Complete technical report with calculations, schematics, and safety analysis
-
----
-
 ## Skills Demonstrated
 - Advanced thermodynamic cycle analysis  
 - Energy systems integration  
