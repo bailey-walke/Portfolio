@@ -10,7 +10,7 @@ Kansas State University
 I am a mechanical engineer with a strong focus on aerospace systems, thermo-fluids, and specialized material engineering. My work spans space systems engineering, experimental materials research, and hands-on prototyping, with an emphasis on translating theory into validated, real-world designs.
 
 This repository contains a curated selection of academic, research, and design projects demonstrating my technical depth, leadership, and systems-level thinking. 
-  *Note: Collins Aerospace projects are not permitted to be shared publicly. Pending approval to include Ursa Major non-CUI projects.*
+  *Note: Collins Aerospace projects are not permitted to be shared publicly. Pending approval to include Ursa Major non-CUI projects.*  
 
 <br clear="right">
 ---
