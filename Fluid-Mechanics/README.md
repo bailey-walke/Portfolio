@@ -34,11 +34,6 @@ The CFD results showed strong agreement with analytical expectations, with most 
 
 ---
 
-## Repository Contents
-- `FluidMechanics_FinalProject.pdf` — Complete report with calculations, simulations, and analysis
-
----
-
 ## Skills Demonstrated
 - Internal pipe flow analysis  
 - Reynolds number–based flow classification  
