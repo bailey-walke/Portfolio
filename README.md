@@ -2,12 +2,12 @@
 &nbsp;
 # Bailey Walke — Portfolio
 
-**M.S. Mechanical Engineering (in progress)** *Spring 2026*  
+**M.S. Mechanical Engineering** *Spring 2026*  
 **B.S. Mechanical Engineering | Aerospace Emphasis | Physics Minor  Engineering Leadership and Innovation Certificate** *Spring 2025*  
 Kansas State University  
 
 # About Me
-I am a mechanical engineer with a strong focus on aerospace systems, thermo-fluids, and specialized material engineering. My work spans space systems engineering, experimental materials research, and hands-on prototyping, with an emphasis on translating theory into validated, real-world designs.
+I am a mechanical engineer focused on propulsion manufacturing, aerospace systems engineering, test/verification, and high-temperature materials. My work spans liquid propulsion manufacturing support, solid rocket motor test infrastructure, CubeSat systems engineering, and ceramic matrix composite research.
 
 This repository contains a curated selection of academic, research, and design projects demonstrating my technical depth, leadership, and systems-level thinking.  
 
@@ -49,6 +49,8 @@ Conducted experimental research on multi-cycle polymer-derived ceramic matrix co
 - Presented at:
   - **2024 Kansas State Undergraduate Research Symposium**
   - **2025 Research of the State – Kansas Graduate Research Summit**
+  - **2026 Capitol Graduate Research Summit**
+  - **ASME IMECE 2026 – *Ceramic Matrix Composites for Aerospace Applications* (Accepted Presentation)** 
  
 **[View CMC Research](./Ceramic-Matrix-Composites)**
 
@@ -81,14 +83,16 @@ Integrated PLC, robotic arm, and CNC laser engraving system demonstrating automa
 
 ---
 ## Skills & Technical Areas
-- **Systems Engineering:** CONOPS, requirements, verification, interfaces
+- **Propulsion/Test:** acceptance testing, qualification testing, leak testing, proof testing, nitrogen flow testing, test procedure development
+- **Manufacturing:** fixture design, process improvements, GD&T, vacuum brazing, DFMA, work instructions, supplier coordination
+- **Systems Engineering:** requirements, ICDs, V&V, risk, SRR/MDR/PDR, configuration management
 - **Aerospace:** CubeSat missions, mission design, ADCS concepts
 - **Materials:** CMCs, high-temperature composites, experimental characterization
 - **Analysis:** Thermodynamics, heat transfer, fluid mechanics, FEA
 - **Manufacturing:** CNC, CAM, PLCs, GD&T, assembly documentation
 ---
 ## Contact
-- **Email** walke1@ksu.edu
+- **Email** batonsandbats@gmail.cpm
 - **Cell** (515)865-0063
 - **LinkedIn:** (https://www.linkedin.com/in/bailey-walke/)
 ---
