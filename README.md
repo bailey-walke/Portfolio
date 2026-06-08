@@ -92,7 +92,7 @@ Integrated PLC, robotic arm, and CNC laser engraving system demonstrating automa
 - **Manufacturing:** CNC, CAM, PLCs, GD&T, assembly documentation
 ---
 ## Contact
-- **Email** batonsandbats@gmail.cpm
+- **Email** batonsandbats@gmail.com
 - **Cell** (515)865-0063
 - **LinkedIn:** (https://www.linkedin.com/in/bailey-walke/)
 ---
