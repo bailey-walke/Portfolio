@@ -34,6 +34,21 @@ PHAT-Sat is a precision agriculture mission designed to collect hyperspectral im
 
 ---
 
+## Major Design Reviews
+**Systems Requirements Review (SRR)**
+- Established mission objectives, success criteria, and system-level requirements.
+- Developed initial requirements traceability framework and subsystem allocations.
+
+**Mission Definition Review (MDR)**
+- Conducted mission architecture trades, payload assessments, and preliminary subsystem selections.
+- Refined system budgets and mission operations concepts.
+
+**Preliminary Design Review (PDR)**
+- Presented spacecraft architecture, subsystem designs, risk assessments, verification plans, and mission budgets to industry and university reviewers.
+- Demonstrated design maturity and readiness to proceed toward detailed design and Critical Design Review (CDR).
+
+---
+
 ## My Role & Contributions
 
 Across both missions, I served in a systems engineering leadership role, responsible for guiding the satellite design from early concept through formal design reviews.
@@ -58,21 +73,6 @@ Key contributions include:
 - Managed technical risk, schedules, and cross-functional interfaces to maintain program execution and design maturity.
 - Coordinated system-level trades involving mass, power, communications, thermal, and mission performance requirements.
 - Applied CubeSat Design Specification (CDS), SSCMAN, NASA GEVS, NASA CSLI, and launch provider requirements during mission development and review activities. 
-
----
-
-## Major Design Reviews
-**Systems Requirements Review (SRR)**
-- Established mission objectives, success criteria, and system-level requirements.
-- Developed initial requirements traceability framework and subsystem allocations.
-
-**Mission Definition Review (MDR)**
-- Conducted mission architecture trades, payload assessments, and preliminary subsystem selections.
-- Refined system budgets and mission operations concepts.
-
-**Preliminary Design Review (PDR)**
-- Presented spacecraft architecture, subsystem designs, risk assessments, verification plans, and mission budgets to industry and university reviewers.
-- Demonstrated design maturity and readiness to proceed toward detailed design and Critical Design Review (CDR).
 
 ---
 ## Repository Contents
