@@ -51,17 +51,31 @@ Key contributions include:
 ---
 
 ## Systems Engineering Focus Areas
-- Space mission architecture and trade studies  
-- Requirements development, traceability, and verification  
-- Interface definition and subsystem integration  
-- Risk management and review preparation  
-- Multidisciplinary technical leadership  
+- Developed and maintained mission requirements, Interface Control Documents (ICDs), Concept of Operations (CONOPS), and system-level architecture documentation.
+- Led weekly systems engineering and leadership meetings across all spacecraft subsystems.
+- Directed spacecraft configuration development including subsystem packaging, deployable systems, mechanical integration, and design for manufacturing and assembly.
+- Established verification and validation strategies to maintain requirements traceability and subsystem compatibility throughout the design lifecycle.
+- Managed technical risk, schedules, and cross-functional interfaces to maintain program execution and design maturity.
+- Coordinated system-level trades involving mass, power, communications, thermal, and mission performance requirements.
+- Applied CubeSat Design Specification (CDS), SSCMAN, NASA GEVS, NASA CSLI, and launch provider requirements during mission development and review activities. 
 
 ---
 
+## Major Design Reviews
+**Systems Requirements Review (SRR)**
+- Established mission objectives, success criteria, and system-level requirements.
+- Developed initial requirements traceability framework and subsystem allocations.
+**Mission Definition Review (MDR)**
+- Conducted mission architecture trades, payload assessments, and preliminary subsystem selections.
+- Refined system budgets and mission operations concepts.
+**Preliminary Design Review (PDR)**
+- Presented spacecraft architecture, subsystem designs, risk assessments, verification plans, and mission budgets to industry and university reviewers.
+- Demonstrated design maturity and readiness to proceed toward detailed design and Critical Design Review (CDR).
+
+---
 ## Repository Contents
 This folder contains key systems engineering artifacts, including:
-- Mission proposals and review presentations (MDR, PDR)
+- Mission proposals and review presentations (SRR, MDR, PDR)
 - Final project reports
 - Requirements Verification Matrices (RVMs)
 - Modes & States and mission lifetime spreadsheets
