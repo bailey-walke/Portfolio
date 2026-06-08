@@ -1,3 +1,4 @@
+<img src="../images/SeniorDesign1.jpg" align="right" width="300">
 # Viscous Damping Device for Parkinson’s Tremors
 
 **Senior Design Project | Kansas State University (Spring 2025)**
