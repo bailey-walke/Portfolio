@@ -65,9 +65,11 @@ Key contributions include:
 **Systems Requirements Review (SRR)**
 - Established mission objectives, success criteria, and system-level requirements.
 - Developed initial requirements traceability framework and subsystem allocations.
+
 **Mission Definition Review (MDR)**
 - Conducted mission architecture trades, payload assessments, and preliminary subsystem selections.
 - Refined system budgets and mission operations concepts.
+
 **Preliminary Design Review (PDR)**
 - Presented spacecraft architecture, subsystem designs, risk assessments, verification plans, and mission budgets to industry and university reviewers.
 - Demonstrated design maturity and readiness to proceed toward detailed design and Critical Design Review (CDR).
