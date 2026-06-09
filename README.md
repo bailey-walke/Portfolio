@@ -52,7 +52,7 @@ Conducted experimental research on multi-cycle polymer-derived ceramic matrix co
   - **2026 Capitol Graduate Research Summit**
   - **ASME IMECE 2026 – *Ceramic Matrix Composites for Aerospace Applications* (Accepted Presentation)** 
  
-**[View CMC Research](./Ceramic-Matrix-Composites)**
+**[View CMC Research](./Cermaic-Matrix-Composites)**
 
 ---
 ## Additional Engineering Projects
