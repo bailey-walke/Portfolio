@@ -7,23 +7,54 @@
 
 ---
 
-## Research Overview
-This research investigated multi-cycle polymer-derived ceramic matrix composites (CMCs) reinforced with carbon fiber, with the goal of improving ceramic yield, coating uniformity, and oxidation resistance for aerospace applications such as rocket nozzles and jet engine components.
+## Overview
+This research investigates polymer-derived ceramic matrix composites (CMCs) for high-temperature aerospace applications including turbine engines, thermal protection systems, and rocket propulsion components.
 
-The work focused on SiCN and Si(B)CN CMCs fabricated using repeated polymer infiltration and pyrolysis (PIP) cycles, a topic with limited prior literature.
+The project focuses on developing silicon-carbon-based ceramic matrices through polymer infiltration and pyrolysis (PIP) processing while evaluating mechanical performance, oxidation resistance, and microstructural evolution. Multiple ceramic systems were investigated including SiCN, SiBCN, and SiHfCN composites reinforced with carbon fiber substrates.
+
+The objective is to identify processing approaches capable of producing lightweight, oxidation-resistant composites suitable for operation in extreme aerospace environments.
 
 ---
 
-## My Contributions
-- Fabricated carbon-fiber–reinforced CMC samples using single- and multi-cycle PIP processing
-- Synthesized and handled silazane-based preceramic polymer precursors
-- Conducted multi-cycle infiltration, crosslinking, and pyrolysis in inert environments
-- Performed materials characterization, including:
-  - FTIR spectroscopy to confirm polymer-to-ceramic conversion
-  - SEM imaging to evaluate coating thickness and fiber coverage
-  - Oxidation testing at 800 °C to assess thermal stability
-- Analyzed pyrolyzed yield, ceramic yield, and weight retention as a function of cycle count
-- Prepared research figures, data analysis, and presentation materials
+## Research Objectives
+* Develop polymer-derived ceramic matrix composites using repeatable PIP processing techniques
+* Increase ceramic yield and matrix density while minimizing processing time
+* Quantify oxidation resistance at elevated temperatures
+* Evaluate mechanical performance through tensile testing
+* Correlate processing parameters with microstructure and material performance
+* Compare SiCN and SiBCN ceramic systems for aerospace applications
+
+---
+
+## Experimental Methods
+
+### Processing
+
+Two processing methodologies were investigated:
+
+#### Method 1: Multi-Cycle Infiltration and Pyrolysis
+
+* Polymer infiltration
+* Crosslinking at 180°C
+* Pyrolysis at 800°C
+* Repeated for multiple cycles
+
+#### Method 2: Multi-Infiltration Single-Pyrolysis
+
+* Multiple infiltration cycles prior to pyrolysis
+* Single pyrolysis cycle at 800°C
+* Reduced manufacturing time and process complexity
+
+### Characterization
+
+* Scanning Electron Microscopy (SEM)
+* Fourier Transform Infrared Spectroscopy (FTIR)
+* X-Ray Diffraction (XRD)
+* X-Ray Fluorescence (XRF)
+* Oxidation Testing
+* Tensile Testing
+* Ceramic Yield Analysis
+* Mass Retention Measurements
 
 ---
 
@@ -47,15 +78,7 @@ This work was also developed into a conference-style research paper and poster p
 ## Repository Contents
 - `SiC-CF_Multi-Cycle_Poster_Walke.pdf` — Research poster presented at state and university symposia
 - `Multicycle_CMC_Publication.pdf` — Full research paper detailing fabrication, characterization, and results
-
----
-
-## Images & Figures
-<!-- Add SEM micrographs comparing cycle count -->
-
-<!-- Add oxidation test comparison images -->
-
-<!-- Add fabrication / PIP process schematic -->
+- `
 
 ---
 
